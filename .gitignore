@@ -1,0 +1,23 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Temporários
+~$*
+*.tmp
+*.bak
+
+# Dados potencialmente sensíveis / locais
+.env
+.env.*
+secrets.*
+
+# PDFs de artigos (evita publicação acidental de conteúdo protegido)
+*.pdf
+!09-prisma/fluxograma/*.pdf
+!10-publicacao/**/*.pdf

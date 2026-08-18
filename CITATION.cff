@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se utilizar este repositório ou os resultados desta pesquisa, cite conforme os dados abaixo."
+title: "[PREENCHER: título da revisão]"
+type: dataset
+authors:
+  - family-names: "[PREENCHER]"
+    given-names: "[PREENCHER]"
+repository-code: "[PREENCHER: URL do repositório]"
+date-released: "[PREENCHER: AAAA-MM-DD]"
+license: "[PREENCHER]"
